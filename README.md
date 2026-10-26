@@ -32,6 +32,7 @@ The schema has 9 tables:
 ## Files
 
 - `ShopEase_Database_Project.pdf`: project presentation with the scenario, ER diagram, schema, and SQL screenshots
+ - `shopease_database.sql`: MySQL script that creates the tables and inserts sample data
 
 ## Tools
 
